@@ -74,3 +74,21 @@ Ali:85
 Sara:92
 John:78
 ```
+---
+
+## 👨‍💻 Author
+![University of Gujrat](https://img.shields.io/badge/University-University%20of%20Gujrat-blue?style=for-the-badge&logo=academia)
+
+
+**Muhammad Ali**  
+🎓 BS Software Engineering Student  
+🏫 University of Gujrat 
+📍 Pakistan  
+
+- 🔗 GitHub: https://github.com/Muhammad-Ali-Software-Engineer
+- 💼 LinkedIn: https://linkedin.com/in/Muhammad-Ali-Software-Engineer
+- 📧 Email: MuhammadAliOfficial75@gmail.com | info.alideveloper@gmail.com
+
+---
+
+> Passionate about Python, Software Engineering, and building projects to strengthen programming concepts.

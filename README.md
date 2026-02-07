@@ -77,8 +77,6 @@ John:78
 ---
 
 ## 👨‍💻 Author
-![University of Gujrat](https://img.shields.io/badge/University-University%20of%20Gujrat-blue?style=for-the-badge&logo=academia)
-
 
 **Muhammad Ali**  
 🎓 BS Software Engineering Student  

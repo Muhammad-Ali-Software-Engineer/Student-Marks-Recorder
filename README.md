@@ -80,7 +80,7 @@ John:78
 
 **Muhammad Ali**  
 🎓 BS Software Engineering Student  
-🏫 University of Gujrat 
+🏫 University of Gujrat <br>
 📍 Pakistan  
 
 - 🔗 GitHub: https://github.com/Muhammad-Ali-Software-Engineer

@@ -87,6 +87,7 @@ John:78
 - 💼 LinkedIn: https://linkedin.com/in/Muhammad-Ali-Software-Engineer
 - 📧 Email: MuhammadAliOfficial75@gmail.com | info.alideveloper@gmail.com
 
----
 
 > Passionate about Python, Software Engineering, and building projects to strengthen programming concepts.
+
+---

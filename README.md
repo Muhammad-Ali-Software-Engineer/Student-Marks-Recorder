@@ -31,15 +31,15 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/student-marks-recorder.git
+   git clone https://github.com/Muhammad-Ali-Software-Engineer/Student-Marks-Recorder.git
    ```
 2. Navigate to the project folder:
    ```
-   cd student-marks-recorder
+   cd Student-Marks-Recorder
    ```
 3. Run the program:
    ```
-   python student_marks_recorder.py
+   python main.py
    ```
 4. Follow the on-screen menu to add, view, delete, or analyze student marks.
 
